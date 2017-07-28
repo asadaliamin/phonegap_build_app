@@ -59900,8 +59900,8 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-	"presets" : {"url": "https://mlearn.moodlecloud.com/login/index.php", "username": ""},
-	"siteurl": "https://mlearn.moodlecloud.com/login/index.php",
+	"presets" : {"url": "https://mlearn.moodlecloud.com", "username": ""},
+	"siteurl": "https://mlearn.moodlecloud.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": ""
